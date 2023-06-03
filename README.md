@@ -1,6 +1,6 @@
 ### 👋
 
-Hi, I'm Brandon. 
+Hi, I'm **[Brandon](https://www.linkedin.com/in/bkpowers/)**. 
 
 I enjoy working on and publishing projects focused on **back-end, data-intensive** solutions.
 
