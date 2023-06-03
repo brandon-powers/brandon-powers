@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋
+
+Hi, I'm Brandon. 
+
+I enjoy working on and publishing projects focused on **back-end, data-intensive** solutions.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-powers)](https://github.com/brandon-powers/github-readme-stats)
 
 <!--
 **brandon-powers/brandon-powers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
