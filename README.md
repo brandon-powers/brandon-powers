@@ -1,8 +1,8 @@
 ### 👋
 
-Hi, I'm **[Brandon](https://www.linkedin.com/in/bkpowers/)**. 
+Hello, I'm **[Brandon](https://www.linkedin.com/in/bkpowers/)**.
 
-I enjoy working on and publishing projects focused on **back-end, data-intensive** solutions.
+Interested in data (platform) engineering & distributed systems.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-powers)](https://github.com/brandon-powers/github-readme-stats)
 
